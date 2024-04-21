@@ -1,0 +1,9 @@
+S. No,Name of the Variable,Description of the Variable
+1,State Legal Services Authority,Name of the State Legal Services Authority (SLSA)
+2,Financial Year,Financial Year in which the victim compensation was awarded; a year starting in April and ending in March
+3,Applications received directly by Legal Service Institutions (A),A Number of applications for victim compensation received by Legal Services institutions like State Legal Services Authoritiy or District Legal Services Authorities directly (A)
+4,Applications / orders marked / directed by any Court (B),"A number of applications for victim compensation received by the Legal Services institutions by an order or direction of the Courts, but not directly (B)"
+5,Applications received including Court Orders (A+B),A sum of total number of applications received by the Legal Services institutions either directly or through Courts (A+B)
+6,Applications Decided,Total number of victim compensation applications decided in a financial year under respective State Legal Services Authority
+7,Applications Pending,Total number of victim compensation applications that are pending in a financial year under respective State Legal Services Authority
+8,Compensation awarded in (Rs),Total victim compensation amount awarded in a financial year in a particular state (in Rupees)

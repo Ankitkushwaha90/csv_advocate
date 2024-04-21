@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Playlist</title>
+</head>
+<body>
+    <h1>CSV Playlist</h1>
+    <ul>
+        {% for csv_file in csv_files %}
+            <li><a href="{{ url_for('display_csv', filename=csv_file) }}">{{ csv_file }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
